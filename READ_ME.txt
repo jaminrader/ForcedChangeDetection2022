@@ -6,14 +6,18 @@ List of Notebooks:
 
 **** TOE_classification.ipynb ****
 
-Standardizes the input data. Trains a neural network to predict the year using fuzzy classification. Calculates performance statistics (loss, Pearson's r, RMSE) for the models. 
+Standardizes the input data. Trains a neural network to predict the year using 
+fuzzy classification. Calculates performance statistics (loss, Pearson's r, RMSE) 
+for the models. 
 
-Plots the loss curve, and prediction versus truth plots (Figure 3, Figure 8, Figures S10-12)
+Plots the loss curve, and prediction versus truth plots (Figure 3, Figure 8, Figures
+S10-12)
 
 
 **** TOE_classification.ipynb ****
 
-Same as TOE_classification.ipynb, but for training 100 different models with various train/test splits.
+Same as TOE_classification.ipynb, but for training 100 different models with various 
+train/test splits.
 
 
 **** LRP.ipynb ****
@@ -51,3 +55,11 @@ model7.h5: Trained on monthly-mean T
 model8.h5: Trained on monthly-mean P 
 model9.h5: Trained on monthly-mean T and P combined
 model10.h5: Trained on seasonal-mean extreme precip over the Americas
+
+
+#####################################################
+Sample Data
+
+A sample of standardized annual-mean temperature data over the land grid points of
+the Americas from 1980-2098. This can be run through TOE_classification.ipynb to 
+see how the neural network predicts the year.
