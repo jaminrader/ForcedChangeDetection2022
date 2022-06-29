@@ -1,4 +1,5 @@
-README.txt, for Detection of Forced Change with Combined Fields using Explainable Neural Networks (submitted to JAMES)
+README.txt, for Detection of Forced Change with Combined Fields using Explainable Neural Networks (Journal of Advances in Modeling Earth Systems)
+DOI: https://doi.org/10.1029/2021MS002941
 Jamin Rader, Dept. of Atmospheric Science, Colorado State University; 2022
 
 #####################################################
